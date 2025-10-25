@@ -1,4 +1,4 @@
-# 👑 Rango Express - Sistema de Cantina
+# 🚀 Rango Express - Sistema de Cantina
 
 Sistema web para gerenciamento da cantina do Colégio Cotemig, desenvolvido em PHP com padrão MVC e Repository.
 
@@ -39,7 +39,7 @@ Sistema web para gerenciamento da cantina do Colégio Cotemig, desenvolvido em P
    ```
 
 2. **Configure o banco de dados**
-   - Crie um banco MySQL chamado `rango_do_rei`
+   - Crie um banco MySQL chamado `rango_express`
    - Execute o script SQL em `config/database.sql`
    - Ajuste as credenciais em `config/database.php` se necessário
 

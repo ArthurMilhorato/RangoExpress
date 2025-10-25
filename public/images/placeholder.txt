@@ -1,0 +1,14 @@
+Esta pasta deve conter as imagens dos produtos do cardápio.
+
+Exemplos de imagens que podem ser adicionadas:
+- pao-acucar.jpg
+- coxinha.jpg
+- suco.jpg
+- lanche-natural.jpg
+- refrigerante.jpg
+- doce.jpg
+
+As imagens devem ter preferencialmente:
+- Formato: JPG ou PNG
+- Tamanho recomendado: 400x300px
+- Peso máximo: 500KB cada
