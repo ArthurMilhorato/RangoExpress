@@ -3,7 +3,9 @@
 Sistema web para gerenciamento da cantina do Colégio Cotemig, desenvolvido em PHP com padrão MVC e Repository.
 
 Arthur Ramos 22300899
+
 Lucas Batista 22300228
+
 Lucas Marques 22400079
 
 ## 🚀 Funcionalidades
